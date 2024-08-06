@@ -25,9 +25,3 @@ const Footer = ({ showFooter }) => {
 };
 
 export default Footer;
-
-// "I recently developed a simple news application using React, Redux, Styled
-//  Components, and Bootstrap 5. This responsive app categorizes news articles into sections 
-//  such as entertainment, business, sports, technology, health, and science. Users can explore 
-//  articles within their preferred categories and switch between light and dark theme modes for a personalized reading experience.
-//   Excited to showcase this project! 📰✨ #ReactJS #Redux #StyledComponents #Bootstrap5 #NewsAPI #WebDevelopment"
